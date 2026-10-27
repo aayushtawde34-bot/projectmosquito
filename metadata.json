@@ -1,0 +1,8 @@
+{
+  "name": "Mosquito & Insect Lamp Simulator",
+  "description": "Interactive 2D and 3D simulation of ultraviolet mosquito and insect lamps, demonstrating phototaxis wavelengths (365nm), 37°C thermal lures, high-voltage electric zappers, and whisper-quiet suction vortexes.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
